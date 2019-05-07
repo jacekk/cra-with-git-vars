@@ -34,7 +34,6 @@ function App() {
                 >
                     Alert envs
                 </a>
-                <pre>{}</pre>
             </header>
         </div>
     );
